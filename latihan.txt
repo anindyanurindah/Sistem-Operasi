@@ -1,3 +1,9 @@
 Nama : Anindya 
 Matkul : Soprak
 NPM : 368
+
+Hal yang dipelajari :
+python
+java
+php
+android studio
